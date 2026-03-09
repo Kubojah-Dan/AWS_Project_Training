@@ -185,6 +185,6 @@ Secure network protocol for transferring files over SSH with encryption, providi
 
 **Project Status**: ✅ Completed
 
-**Author**: AWS Cloud Practitioner
+**Author**: AWS Cloud Practitioner (KUBOJA DANIEL)
 
-**Year**: 2025
+**Year**: 2026
